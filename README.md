@@ -1,7 +1,9 @@
-# Vue 3 + Vite
+# 码神之路 前端
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+本项目来自 B 站视频，[【【码神之路】项目实战教程，springboot+vue 练手级项目，真实的在线博客系统，十年大厂程序员讲解，从易到难，循序渐进】](https://www.bilibili.com/video/BV1Gb4y1d7zb/?share_source=copy_web&vd_source=bb5f5798f55c369e64de4f2cf0239c85)。
 
-## Recommended IDE Setup
+我的仓库中，后端没有做大多的改变。
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+**前端则是从 Webpack 换成了 Vite，同时升级为 Vue3 + Element Plus**
+
+后续继续完善哈。
